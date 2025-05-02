@@ -38,6 +38,7 @@ The weights `wᵢ` are updated iteratively to impose asymmetry:
 
 ```bash
 pip install numpy scipy
+```
 
 ## References
 
